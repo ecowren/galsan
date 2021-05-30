@@ -4,7 +4,7 @@
  * Licensed under the ecowren.
  * you may not use this file except in compliance with the License.
  */
-package com.birdbean.galsan.application;
+package com.birdbean.seoul.application;
 
 import com.google.common.base.Joiner;
 import com.google.inject.Guice;
@@ -19,8 +19,8 @@ import ro.pippo.core.Request;
 import ro.pippo.core.route.RoutePreDispatchListener;
 import ro.pippo.guice.GuiceControllerFactory;
 
-import  static  com.birdbean.galsan.config.GalsanConfig.SPACE_PADDED_PIPE;
-import  static  com.birdbean.galsan.config.GalsanConfig.EMPTY;
+import  static  com.birdbean.seoul.config.GalsanConfig.SPACE_PADDED_PIPE;
+import  static  com.birdbean.seoul.config.GalsanConfig.EMPTY;
 /**
  * @author Dahuin Choi
  */

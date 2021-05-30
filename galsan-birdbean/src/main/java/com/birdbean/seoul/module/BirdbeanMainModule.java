@@ -1,4 +1,4 @@
-package com.birdbean.galsan.module;/*
+package com.birdbean.seoul.module;/*
  * Copyright (C) 2021 the original author or authors.
  *
  * Licensed under the ecowren.

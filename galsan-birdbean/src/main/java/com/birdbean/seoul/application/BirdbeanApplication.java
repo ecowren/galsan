@@ -4,7 +4,7 @@
  * Licensed under the ecowren.
  * you may not use this file except in compliance with the License.
  */
-package com.birdbean.galsan.application;
+package com.birdbean.seoul.application;
 
 import com.google.inject.Module;
 

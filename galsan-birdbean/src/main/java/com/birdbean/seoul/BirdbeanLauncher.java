@@ -4,10 +4,10 @@
  * Licensed under the ecowren.
  * you may not use this file except in compliance with the License.
  */
-package com.birdbean.galsan;
+package com.birdbean.seoul;
 
-import com.birdbean.galsan.application.BirdbeanApplication;
-import com.birdbean.galsan.application.Galsan;
+import com.birdbean.seoul.application.BirdbeanApplication;
+import com.birdbean.seoul.application.Galsan;
 
 /**
  * Launcher for bridbean backend service.
